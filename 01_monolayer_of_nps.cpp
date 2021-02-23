@@ -10,8 +10,11 @@
 
             Author: Arturo Santos Gómez
 
+            		MIT Licence
+
                 Date: Jul 19, 2018.
               Update: Sep 8, 2018 
+				
 **********************************************************/
 
 #include <cstdio>
